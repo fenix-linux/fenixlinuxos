@@ -2,7 +2,7 @@
 - 👀 I’m interested in create things to make Linux more usable on the desktop.
 - 🌱 I'm currently learning how to make better distros.
 - 💞️ I’m looking to collaborate on MX-Linux, Manjaro, Ubuntu, Linux Mint, Pop OS, KDE...
-- 📫 How to reach me fenixlinux.com.
+- 📫 How to reach me: fenixlinux.com.
 
 <!---
 fenixlinuxos/fenixlinuxos is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
