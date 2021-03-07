@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @fenixlinux
 - 👀 I’m interested in create things to make Linux more user friendly.
 - 🌱 I'm currently learning how to make better distros.
-- 💞️ I’m looking to collaborate on MX-Linux, Manjaro, Ubuntu, Linux Mint, Pop, Raspberry Pi Projects, Twister, KDE, Gnome...
+- 💞️ I’m collaboraring or looking to collaborate on MX-Linux, Manjaro, Ubuntu, Linux Mint, Pop, Garuda, Raspberry Pi Projects, Twister, KDE, Gnome...
 - 📫 How to reach me: fenixlinux.com
 
 <!---
